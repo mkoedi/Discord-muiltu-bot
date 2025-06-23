@@ -26,7 +26,7 @@ https://discord.gg/ksmk
 
 # How
 What Happens Behind moilted
-![image](https://github.com/YABOIpy/GoDm/assets/110062350/7b096cf5-9b88-46eb-8b1f-fd785c8cb2a7)
+![image](git@github.com:mkoedi/Discord-muiltu-bot.git)
 
 
 # Usage
