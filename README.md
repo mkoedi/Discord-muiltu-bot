@@ -9,7 +9,7 @@
 
 ## being recoded. probably wont be maintained after.
 # Join the Chat!: 
-https://discord.gg/ksmk
+https://discord.gg/Z1
 
 # About
 
